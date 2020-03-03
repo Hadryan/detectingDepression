@@ -1,2 +1,3 @@
 # detectingDepression
-dasdasdf
+Detecting Depression Through The Use Of High-Order Statistics Audio Features.
+In this project, I explored the use of high-order statistics audio features to predict depression. My datasets were composed of 554 audio features including spectral coefficients, prosody, and voice quality. I conducted four experiments using the Support Vector Machine algorithm. We also explored different kernel configurations. To optimize the model, I performed a grid search to find the best hyper-parameters. Although I only use a binary classifier, the results were good compared with the baselines.
